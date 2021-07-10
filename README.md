@@ -4,10 +4,10 @@ This repository contains code which demonstrates ML-Ops using a `FastAPI` applic
 
 ## Running Instructions
 - Create a fork of the repo using the `fork` button.
-- Clone your fork using `git clone https://www.github.com/<your-username>/mlops-iris.git`
+- Clone your fork using `git clone https://github.com/KVMonika/mlops-iris.git`
 - Install dependencies using `pip3 install requirements.txt`
 - Run application using `python3 main.py`
-- Run tests using `pytest`
+- Run tests using `pytest` or `python -m pytest test_app.py`
 
 ## CI/CD
 - `build` (test) for all the pull requests
